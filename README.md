@@ -2,14 +2,16 @@
 <img src="https://media.giphy.com/media/H6E7CjSrSVWhgEV7E8/giphy.gif" align="right">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 
-# Hi, I’m [@AnshRaj](https://github.com/anshraj468)  
-- 👀 I’m interested in Cyber-Security, Ethical Hacking, and Penetration Testing 👨‍💻.
-- 🌱 I’m currently learning Red Teaming 🔺. 
+# Hi, I’m [@AnshRaj](https://github.com/anshraj468) 
+
+- 👀 **I’m interested in:** Cyber-Security, Ethical Hacking, and Penetration Testing.
+- 🌱 **I’m currently learning:** Red Teaming 🔺.
 
 ---
 
 ### 📫 How to reach me
-- [<img src="https://media.giphy.com/media/gAkSOKitTKTxhQnu15/giphy.gif" width="20">](https://twitter.com/Ashif1337) [@Ansh1337](https://twitter.com/Ashif1337)
+
+- [<img src="https://media.giphy.com/media/gAkSOKitTKTxhQnu15/giphy.gif" width="20">](https://twitter.com/anshraj468) [@AnshRaj](https://twitter.com/anshraj468)
 - [<img src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif" width="20">](https://www.linkedin.com/in/anshraj468) [@Ansh](https://www.linkedin.com/in/anshraj468)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Unicoorn.png" alt="TryHackMe"> <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="55"> <img src="https://media.giphy.com/media/eNpP80U2AJKDn1UDhP/giphy.gif" width="64"> <img src="https://media.giphy.com/media/J61tD7jk3dHkkEC6l7/giphy.gif" width="135">
@@ -20,24 +22,34 @@
 
 <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="280" align="right">
 
-- <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="45"> Python  
-- <img src="https://media.giphy.com/media/MCRQ0Nkn4KfeQDdM7N/giphy.gif" width="75"> JavaScript  
-- <img src="https://media.giphy.com/media/3ya3f6h1RbMxDzEG0r/giphy.gif" width="45"> Bash  
+- <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="45"> **Python**
+- <img src="https://media.giphy.com/media/MCRQ0Nkn4KfeQDdM7N/giphy.gif" width="75"> **JavaScript**
+- <img src="https://media.giphy.com/media/3ya3f6h1RbMxDzEG0r/giphy.gif" width="45"> **Bash**
 
 ---
 
-### **Which Character Are You?**
+### 🕵️‍♂️ **Which Character Are You?**
 
-<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="140">
+<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="140" align="left">
 
-↪ **Answer**: Screenshot and send it to [@Ansh1337](https://twitter.com/Ashif1337)
+Click below to find out! 
+
+🎲 [Character Quiz](https://www.somefunquizlink.com) 🎭
+
+**↪ Screenshot and share your result with me on [@AnshRaj](https://twitter.com/anshraj468)!**
 
 ---
 
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+### **Fun Stats**
 
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshraj468&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshraj468&layout=compact&theme=radical)
+
+---
+
+### **Tools I Use**
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40"> **VS Code**
+<img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="40"> **Kali Linux**
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="40"> **Wireshark**
